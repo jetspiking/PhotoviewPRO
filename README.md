@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/jetspiking/PhotoviewPRO/main/Press/Icon.png" width="64" height="64"> Photoview - PRO
-<img src="https://raw.githubusercontent.com/jetspiking/PhotoviewPRO/main/Screenshots/Screenshot0.png" Width="250">
+<img src="https://raw.githubusercontent.com/jetspiking/PhotoviewPRO/main/Screenshots/Screenshot0.png">
 
 # Description
 Photoview - PRO is a lightweight photoviewer application for Windows desktop.
